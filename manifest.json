@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "pypa",
+  "repo": "pypa.io",
+  "versions": [
+    {
+      "commit": "ed988856b2b72d40a2e2712ab56290ca2a433c58",
+      "parsed_at": "2026-10-11T09:16:13.016650+00:00",
+      "filetree": "filetree/ed988856b2b72d40a2e2712ab56290ca2a433c58.nq.gz",
+      "blobs": [
+        "blob/354767b0665e36203350ebcbdf4a3dabaa8ad98a.nq.gz",
+        "blob/c39f0e39e2d64c2676aec91e7cd9e03d2a7b8815.nq.gz",
+        "blob/d2260eddf60349d4efea2a2efdc39181680f09b0.nq.gz",
+        "blob/db214a9ae33987dd827a144b12d85a49147e9f4f.nq.gz",
+        "blob/23a3f9259d9fc37c11146758937f5db7bc5447bd.nq.gz",
+        "blob/17f8e0f501de933e40afee462321493b13e26d1f.nq.gz",
+        "blob/b5a72d0e535db5fc60d29cd7c6cdea74784806f0.nq.gz",
+        "blob/a229b510ea440bdd963085a1484cbdb0bc618a6c.nq.gz",
+        "blob/99033b3494224c8193cc2f453ff4e551f38fc1b1.nq.gz",
+        "blob/e53853c5854df2697edb625049567b5c49b213b6.nq.gz",
+        "blob/553512353e02720872ea43de17de09d5d8d0981f.nq.gz",
+        "blob/1ba734196cacd86fff3ae5a6c1a5a0e5406f4289.nq.gz",
+        "blob/e96ac53a72484eb9828ac2cfde7cd9107c5f95c4.nq.gz",
+        "blob/6311c0ab812b5c228a0ae976695b8f74c0201168.nq.gz",
+        "blob/76b20c9f4aeb7a9dc7e722c8866d9bef127dc84b.nq.gz",
+        "blob/00266e9cb098d312cbf9c9084393ceac177ce2c2.nq.gz",
+        "blob/c9bafe1f83722a026361cd83858bea3bf9322ccd.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
